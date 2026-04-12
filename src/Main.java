@@ -39,10 +39,22 @@ public class Main {
                             "          LISTA DE PRODUTOS\n" +
                             "========================================\n");
 
-                    for (int i = 0; i < produtos.size(); i++) {
-
+                    for (Produto produto : produtos) {
+                        System.out.println("Nome: " + produto.getNome() +
+                                           "\nDescricao: " + produto.getDescricao() +
+                                           "\nQuantidade: " + produto.getQuantidade() +
+                        "-------------------------------------------------------------------------");
                     }
 
+                    break;
+
+
+                case 3:
+
+                case 4:
+
+                case 5:
+                    System.out.print("Saindo...");
                     break;
             }
         }

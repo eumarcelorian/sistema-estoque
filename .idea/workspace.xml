@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d04b0ebc-b3f3-45fc-a077-9b1a91d8a00b" name="Changes" comment="Adiciona menu principal e classe Produto">
+    <list default="true" id="d04b0ebc-b3f3-45fc-a077-9b1a91d8a00b" name="Changes" comment="Adiciona lógica de cadastro de produtos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -73,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adiciona menu principal e classe Produto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adiciona menu principal e classe Produto" />
+    <MESSAGE value="Adiciona lógica de cadastro de produtos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adiciona lógica de cadastro de produtos" />
   </component>
 </project>
